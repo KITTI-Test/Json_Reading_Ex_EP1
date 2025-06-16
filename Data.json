@@ -1,6 +1,6 @@
 [
     {
-        "sentence": "Last weekend I _____ to the park with friend. We _____ games and had a picnic under a big tree.",
+        "sentence": "Last weekend. I _____ to the park with friend. We _____ games and had a picnic under a big tree.",
         "blanks": ["went", "played"],
         "options": ["went", "go", "going", "play", "played", "playing"]
     },
