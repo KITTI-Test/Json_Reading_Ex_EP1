@@ -1,0 +1,17 @@
+[
+    {
+        "sentence": "The _____ jumped over the _____ moon.",
+        "blanks": ["quick", "lazy"],
+        "options": ["quick", "lazy", "brown", "fox", "dog"]
+    },
+    {
+        "sentence": "To be or not to _____, that is the _____.",
+        "blanks": ["be", "question"],
+        "options": ["be", "question", "do", "answer", "think"]
+    },
+    {
+        "sentence": "The early _____ catches the _____.",
+        "blanks": ["bird", "worm"],
+        "options": ["bird", "worm", "cat", "mouse", "sun"]
+    }
+]
