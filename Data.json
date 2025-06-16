@@ -2,16 +2,16 @@
     {
         "sentence":Last weekend,I _____ to the park with friend. We _____ games and had a picnic under a big tree.",
         "blanks": ["went", "played"],
-        "options": ["go", "going", "play", "played", "playing"]
+        "options": ["went", "go", "going", "play", "played", "playing"]
     },
     {
-        "sentence": "To be or not to _____, that is the _____.",
-        "blanks": ["be", "question"],
-        "options": ["be", "question", "do", "answer", "think"]
+        "sentence": "I _____ ducks in the pond and birds in the sky.",
+        "blanks": ["saw"],
+        "options": ["see", "saw", "seen","seeing"]
     },
     {
-        "sentence": "The early _____ catches the _____.",
-        "blanks": ["bird", "worm"],
-        "options": ["bird", "worm", "cat", "mouse", "sun"]
+        "sentence": "It _____ sunny and happy day.I _____ going to the park.",
+        "blanks": ["was", "love"],
+        "options": ["is", "was", "loves", "love"]
     }
 ]
